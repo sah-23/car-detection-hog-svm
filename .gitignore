@@ -1,0 +1,38 @@
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Data & Artifacts (keep paths private) ---
+data/
+datasets/
+raw_data/
+outputs/
+artifacts/
+models/
+checkpoints/
+logs/
+
+# --- Environment / Secrets ---
+.env
+.env.*
+*.env
+
+# --- Generated files ---
+*.log
+*.tmp
+*.temp
+*.cache
+
