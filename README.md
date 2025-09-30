@@ -2,7 +2,7 @@
 
 Build a classic computer-vision pipeline for car vs non-car detection using Histogram of Oriented Gradients (HOG) features and a Support Vector Machine (SVM). This repository includes an end-to-end notebook demonstrating feature extraction, model training, evaluation, and qualitative visualization.
 
-Dataset: [Car and Non-Car Dataset](https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset) from Kaggle
+Dataset: [https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset](https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset)
 
 ### Why this project is resume-ready
 - **Clear problem**: binary image classification (car vs non-car)
@@ -38,7 +38,7 @@ pip freeze > requirements.txt
 ```
 
 ### Dataset
-Download the dataset from Kaggle: [Car and Non-Car Dataset](https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset)
+Download the dataset from Kaggle: [https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset](https://www.kaggle.com/datasets/lachlannegus/car-and-non-car-dataset)
 
 To keep local paths private, use an environment variable for your data directory instead of hardcoding absolute paths in the notebook.
 
